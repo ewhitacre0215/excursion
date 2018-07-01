@@ -1,7 +1,35 @@
 h1 {
+  font-size: 50px;
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+h1, h2 {
+  color: white;
   text-align: center;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
 }
 
 body {
   background-color: black;
+  text-align: center;
+  font-family: Verdana;
+}
+
+.cta {
+  color: aquamarine;
+  font-size: 16px
+}
+
+.copywrite {
+  color: gray;
+  text-align: right;
 }
